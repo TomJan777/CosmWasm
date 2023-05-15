@@ -1,0 +1,1 @@
+/home/tomasz/Documents/Crypto/IBC/CosmWasm/cw-academy/empty-contract/target/debug/libcontract.so: /home/tomasz/Documents/Crypto/IBC/CosmWasm/cw-academy/empty-contract/src/contract.rs /home/tomasz/Documents/Crypto/IBC/CosmWasm/cw-academy/empty-contract/src/lib.rs /home/tomasz/Documents/Crypto/IBC/CosmWasm/cw-academy/empty-contract/src/msg.rs

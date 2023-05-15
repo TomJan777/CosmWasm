@@ -1,0 +1,12 @@
+/home/tomasz/Documents/Crypto/IBC/CosmWasm/cw-academy/empty-contract/target/debug/deps/spki-76e2f714a2824f2e.rmeta: /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/home/tomasz/Documents/Crypto/IBC/CosmWasm/cw-academy/empty-contract/target/debug/deps/libspki-76e2f714a2824f2e.rlib: /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/home/tomasz/Documents/Crypto/IBC/CosmWasm/cw-academy/empty-contract/target/debug/deps/spki-76e2f714a2824f2e.d: /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs /home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md
+
+/home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/lib.rs:
+/home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/algorithm.rs:
+/home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/error.rs:
+/home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/spki.rs:
+/home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/traits.rs:
+/home/tomasz/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.6.0/src/../README.md:
